@@ -1,0 +1,3 @@
+[submodule "rwasm-web"]
+	path = rwasm-web
+	url = https://github.com/yellowHatpro/rwasm-web.git
